@@ -498,6 +498,19 @@ Want to learn faster and easier? Here we have **Instant IntroJs**, Packt Publish
 - [Google Group](https://groups.google.com/d/forum/introjs)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/intro.js)
 
+
+## Contributing (for Antwerp)
+
+Pull requests are always welcome, however keep the following things in mind:
+
+- New features (both breaking and non-breaking) should always be discussed with the [repo's owner](#support). If possible, please open an issue first to discuss what you would like to change.
+- Fork this repo and issue your fix or new feature via a pull request.
+- Please make sure to update tests as appropriate. Also check possible linting errors and update the CHANGELOG if applicable.
+
+## Support (for Antwerp)
+
+Wim Vanhorenbeeck (<wim.vanhorenbeeck@digipolis.be>)
+
 ## License
 
 ### Commercial license
